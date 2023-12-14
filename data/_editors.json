@@ -3,168 +3,17 @@
         "role": "owner",
         "members": [
             {
-                "name": "iiLogan",
-                "link": "https://www.youtube.com/channel/UCPyzU-PttFOyup6UYQ-rQMQ"
-            },
-            {
-                "name": "SEDTHEPRODIGY",
-                "link": "https://www.youtube.com/channel/UCDp8z5-vtUg8QJdDM5Yh-tg"
-            },
-            {
-                "name": "Megu",
-                "link": "https://www.youtube.com/channel/UC0wJXER96_HVFXo2IT1fmHQ"
+                "name": "JaydenvdH",
+                "link": "https://www.youtube.com/channel/UCJgdy-pEUeVO5C4sihsjtOA"
             }
         ]
     },
-    {
-        "role": "admin",
-        "members": [
-            {
-                "name": "Minebox260",
-                "link": "https://www.youtube.com/channel/UC4N25ULgPMmeKv5XwgJD5-A"
-            },
-            {
-                "name":"jacob",
-                "link": "https://youtube.com/@smjacob."
-            },
-            {
-                "name": "Kuzzi",
-                "link": "https://www.youtube.com/channel/UCtLuHWMWDEulHAYA5GJyGHA"
-            },
-            {
-                "name": "Willow",
-                "link": "https://www.youtube.com/channel/UCc9p_PkgCJ4srLMyQ7617rw"
-            },
-            {
-                "name": "Bobbyp02",
-                "link": "https://www.youtube.com/channel/UCG-feF2EXzx_trvHKWDRQfA"
-            }
-        ]
-    },
-    {
-        "role": "trial",
-        "members": [
-            {
-                "name":"DaMeister",
-                "link": "https://www.youtube.com/channel/UCHFwGVNPDLvtp440RZ5_oEQ"
-            },
-            {
-                "name": "faulheitsmensch",
-                "link": "https://www.youtube.com/@faulheitsmensch6537"
-            },
-            {
-                "name": "kekchungle44",
-                "link": "https://www.youtube.com/channel/UCXeZkBQDxqdUhP8hP_NIsiQ"
-            },
-            {
-                "name": "Candy",
-                "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
-            },
-            {
-                "name": "tomm",
-                "link": "https://youtube.com/@tommGMD"
-            },
-            {
-                "name": "zoidy",
-                "link": "https://www.youtube.com/channel/UC9vs9gE5tJZEf4PqMMDKdEg"
-            },
-            {
-                "name": "Padahk",
-                "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
-            }
-        ]
-    },
-    {
-        "role": "helper",
-        "members": [
-            {
-                "name": "Saminkz",
-                "link": "https://www.youtube.com/channel/UCdK3rl9N9QIuMguKKG31L9Q"
-            },
-            {
-                "name": "Kuro",
-                "link": "https://www.youtube.com/channel/UCt93cwdDC5wuWY0uRS-HiqA"
-            },
-            {
-                "name": "MythicalTG",
-                "link": "https://www.youtube.com/channel/UCuxlnUkuezOQSF1a0R7acsg"
-            },
-            {
-                "name": "Fabricorn",
-                "link": "https://www.youtube.com/channel/UCR_Mc1FOaZgiLbouUXRj1bw"
-            },
-            {
-                "name": "asmallsock",
-                "link": "https://www.youtube.com/channel/UCAgeGug7v1tFw__iVyLDr6Q"
-            },
-            {
-                "name": "ormz",
-                "link": "https://www.youtube.com/channel/UCVNOwFT0LBhwScKqZFkdcNA"
-            },
-            {
-                "name": "Ysta",
-                "link": "https://www.youtube.com/@YstaGD"
-            }
-        ] 
-    },    
-    {       "role": "dev",
-            "members": [
-                {
-                    "name": "Simolater",
-                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
-                },
-                {
-                    "name": "Prometheus",
-                    "link": "https://www.youtube.com/channel/UCg_r2c6sLRfiMcUSiRQHr8Q"
-                }
-            ]
-        },
         {
-            "role": "patreon",
+            "role": "dev",
             "members": [
                 {
-                    "name": "BeckettGamer",
-                    "link": "https://www.youtube.com/channel/UC6WQWsn7Db56cHk05OaW_qA"
-                },
-                {
-                    "name": "CarbonGD",
-                    "link": "https://www.youtube.com/channel/UCEkzjmSWPDGf4pEJF4ZcDRA"
-                },
-                {
-                    "name": "ultracauaHD",
-                    "link": "https://www.youtube.com/channel/UCs0blJsWf39T-hIGVJ93aMQ"
-                },
-                {
-                    "name": "SlightliFizzi",
-                    "link": "https://www.youtube.com/channel/UCqsQRQ8Hv9Bwpi1GZ9nJPIA"
-                },
-                {
-                    "name": "Padahk",
-                    "link": "https://www.youtube.com/channel/UCab6v0QABvh4ca5EJrlgH9A"
-                },
-                {
-                    "name": "zHob",
-                    "link": "https://www.youtube.com/channel/UC7H3KDLr5Vf741Lwgx0e_bQ"
-                },
-                {
-                    "name": "Pentu",
-                    "link": "https://www.youtube.com/channel/UCd9J3-xylMKBQAOikAEd9Bg"
-                },
-                {
-                    "name": "Kuro",
-                    "link": "https://www.youtube.com/channel/UCt93cwdDC5wuWY0uRS-HiqA"
-                },
-                {
-                    "name": "Pancake Knight",
-                    "link": "https://www.youtube.com/channel/UCZ-FUr34bL__xPAs4lPL2FQ"
-                },
-                {
-                    "name": "Dosos",
-                    "link": "https://www.youtube.com/channel/UCO3qhhvEjaZmYpF028dVWNw"
-                },
-                {
-                    "name": "Anekosaku",
-                    "link": "https://patreon.com/aredlgd"
+                    "name":"Padahk",
+                    "link": "https://youtube.com/@Padahk?si=_M425h2h0f1AVgmn"
                 }
             ]
         }
