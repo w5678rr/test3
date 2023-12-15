@@ -8,64 +8,10 @@
     "percentToQualify": 100,
     "records": [
     {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=WVlUvLu-cwg&",
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=kQMgRtu8WjA",
             "percent": 100,
             "hz": 360
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/V_22yidU2Ws",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/0_SEq2BSOIY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "DJ1482",
-            "link": "https://youtu.be/7K4H0OlThz8",
-            "percent": 100,
-            "hz": 288
-},
-{
-            "user": "ViperVenom95",
-            "link": "https://www.youtube.com/watch?v=eifJAnqImuU&ab_channel=ViperVenom95",
-            "percent": 100,
-            "hz": 360
-},
-        {
-        "user": "fusion425",
-        "link": "https://youtu.be/Hj2gx4Ie_T8",
-        "percent": 100,
-        "hz": 360
-},
-        {
-            "user": "Ratio",
-            "link": "https://youtu.be/VFH8TaKKA3s",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=fLokIzNn6Wg",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "1GMitzy",
-    "link": "https://youtu.be/yZfBGXQi-6w?si=phhfXkXFJFy0TsDU",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Ranian",
-    "link": "https://youtu.be/4F4bgsXIdtA?si=IwWJOpygXs0CAhnQ",
-    "percent": 100,
-    "hz": 360
 }
     ]
 }
