@@ -7,65 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=SaU454afkKY",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/U4k2pGE4H0Q",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/cQxH9diVBlI",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=wDvnyCSC9RM&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "BANA1411",
-    "link": "https://youtu.be/oUF_wmbSm3I",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=iFREIvmAOkw",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Teno",
-    "link": "https://youtu.be/9tTU_Dt9n2w",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "OnlinE_Play",
-    "link": "https://www.youtube.com/watch?v=OTCLtYq9wsc&t=20s",
-    "percent": 100,
-    "hz": 240
-},
 {
     "user": "BreadGuyGD",
     "link": "https://www.youtube.com/watch?v=mEjYtimIhlc",
     "percent": 100,
     "hz": 240
-},
-{
-    "user": "Whizkid05",
-    "link": "https://youtu.be/rCdxzWnoCWI?si=_BAppgQ4RmV5JcOb",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "goobrey",
-    "link": "https://youtu.be/l1HfsPjDa8I?si=QU0FAcpfoxbIEYeM",
-    "percent": 100,
-    "hz": 360
 }
     ]
 }
