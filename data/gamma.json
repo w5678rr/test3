@@ -9,94 +9,22 @@
     "password": "772002",
     "records": [
     {
-            "user": "ItzElectrix",
-            "link": "https://youtu.be/A5I9KdJeWRY",
+            "user": "ElectroLight7",
+            "link": "https://www.youtube.com/watch?v=IEcdOTrrYmI",
             "percent": 100,
-            "hz": 240
+            "hz": 288
 },
         {
-            "user": "theworldofme",
-            "link": "https://www.youtube.com/watch?v=VU0xgkuMDSs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/W3zQScQmrtw",
+            "user": "T'im",
+            "link": "https://www.youtube.com/watch?v=igDe_1Y3Urg",
             "percent": 100,
             "hz": 360
 },
         {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/ZLnF19qETXw",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "lumi",
-            "link": "https://youtu.be/UWY09reJxxE",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=J-gudiqxlhw",
+            "user": "Dagger",
+            "link": "https://www.youtube.com/watch?v=znxTWFk75T8",
             "percent": 100,
             "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=pyKcjNBnnPk&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/cGpbHpXQDrk",
-    "percent": 100,
-    "hz": 144
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=u5X0bVQR23U",
-    "percent": 100,
-    "hz": 165
-},
-{
-    "user": "Teno",
-    "link": "https://youtu.be/cwUkPPdX8cY",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "ItzLonox",
-    "link": "https://www.youtube.com/watch?v=r721yskoBGY",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "stav",
-        "link": "https://youtu.be/7ZN4A1lDslU?si=iT7OXgBdP07XgZFC",
-        "percent": 100,
-        "hz": 288
-},
-{
-    "user": "GJosh2",
-    "link": "https://www.youtube.com/watch?v=aPZpYMdR40U",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "goobrey",
-    "link": "https://youtu.be/Io4Xqokox4Q?si=tFfsfJhWB20UTwjO",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "StarXV",
-    "link": "https://youtu.be/yj1liqJ8EXE",
-    "percent": 100,
-    "hz": 240
 }
     ]
 }
