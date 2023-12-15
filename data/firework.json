@@ -9,28 +9,10 @@
     "password": "234000",
     "records": [
     {
-            "user": "Denni",
-            "link": "https://youtu.be/tiBl_y31ixs",
+            "user": "JannisTE",
+            "link": "https://www.youtube.com/watch?v=k_t-DVec-9E",
             "percent": 100,
             "hz": 360
-},
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/WWH8wz3MI7w",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Artify8",
-    "link": "https://youtu.be/AZX18fDvdyc?feature=shared",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "LordVadercraft",
-    "link": "https://www.youtube.com/watch?v=nn5KHMz39-k",
-    "percent": 100,
-    "hz": 360
 }
     ]
 }
