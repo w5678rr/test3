@@ -8,64 +8,10 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Nik14K",
-            "link": "https://youtu.be/r1v-XxCaJcQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Zoink",
-            "link": "https://youtu.be/foKbgeip5Bg",
+            "user": "GDaan",
+            "link": "https://www.youtube.com/watch?v=JJ4SoXgGcv4",
             "percent": 100,
             "hz": 360
-},
-        {
-            "user": "Draconyx",
-            "link": "https://youtu.be/-rMjO20_zNE",
-            "percent": 100,
-            "hz": 165
-},
-        {
-            "user": "skycrab",
-            "link": "https://youtu.be/QMZ7LN-TcQs",
-            "percent": 100,
-            "hz": 290
-},
-{
-    "user": "FakeRodri",
-    "link": "https://www.youtube.com/watch?v=ZqdfMlxORc0&t=375s",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Darkhonix",
-    "link": "https://youtu.be/PTjq6ogo7Mk?si=P5TWuNjWsETqoUhO",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Aleczd",
-    "link": "https://www.youtube.com/watch?v=CDIMfKeS5qU",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "ImCrisGD",
-    "link": "https://youtu.be/6aXDZ0rZt9U?si=VTMlk-QSKUByNh84",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "stav",
-    "link": "https://youtu.be/JZeaRFTFqI0?si=On0BNbkvWl8iFnrT",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "JASM18",
-    "link": "https://youtu.be/EMf6pZ05J-w?si=SbQgILYvv2oejoQc",
-    "percent": 100,
-    "hz": 240
 }
     ]
 }
