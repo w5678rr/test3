@@ -8,76 +8,16 @@
     "percentToQualify": 100,
     "records": [
     {
-            "user": "Blathers",
-            "link": "https://youtu.be/1j4vklvAOBI",
+            "user": "ElectroLight7",
+            "link": "https://www.youtube.com/watch?v=F2LqLRA9Amk",
             "percent": 100,
-            "hz": 240
+            "hz": 288
 },
         {
-            "user": "ActionninjaT",
-            "link": "https://youtu.be/1vmHxtiPsO0",
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=LOsQ4BlBS7Q",
             "percent": 100,
             "hz": 360
-},
-        {
-            "user": "nei",
-            "link": "https://youtu.be/URM7brZeY68",
-            "percent": 100,
-            "hz": 289
-},
-        {
-            "user": "Lia",
-            "link": "https://youtu.be/dvUxEzuFyII",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Dylinator",
-            "link": "https://youtu.be/KQLPN1Dc7Xo",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "LuigiDB",
-            "link": "https://www.youtube.com/watch?v=-yNy1o4t1qM",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "ViperVenom95",
-            "link": "https://www.youtube.com/watch?v=QC5GmD2qj44&ab_channel=ViperVenom95",
-            "percent": 100,
-            "hz": 144
-},
-        {
-            "user": "DoGGy",
-            "link": "https://www.youtube.com/watch?v=kJ_wsvuINLg",
-            "percent": 100,
-            "hz": 280
-},
-        {
-            "user": "couropsnov",
-            "link": "https://www.youtube.com/watch?v=q1kh_132Nxs",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Bram4Real",
-            "link": "https://www.youtube.com/watch?v=BP9Cp1gdmsE",
-            "percent": 100,
-            "hz": 240
-},
-{
-    "user": "Aero",
-    "link": "https://youtu.be/q7zdRh6xNg8",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "stav",
-    "link": "https://youtu.be/BBuR-ZfCO7Q?si=SoYkyYpq9663V74P",
-    "percent": 100,
-    "hz": 289
 }
     ]
 }
