@@ -9,94 +9,16 @@
     "password": "005875",
     "records": [
         {
-            "user": "Blathers",
-            "link": "https://youtu.be/eZkteBuMxoo",
-            "percent": 100,
-            "hz": 288
-},
-        {
-            "user": "Fabricorn",
-            "link": "https://youtu.be/aNoWixN42I4",
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=mZEG6RjEU6g",
             "percent": 100,
             "hz": 360
 },
         {
-            "user": "Zoink",
-            "link": "https://youtu.be/v1Gj1iRg3cY",
+            "user": "w5678rr",
+            "link": "https://www.youtube.com/watch?v=l_XHMGg-EtE",
             "percent": 100,
-            "hz": 144
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://www.youtube.com/watch?v=A9YZ_cgNbMg&ab_channel=ViperVenom95",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "zGabriel",
-    "link": "https://youtu.be/xyHvsTjV4UE",
-    "percent": 100,
-    "hz": 330
-},
-{
-    "user": "ultracauaHD",
-    "link": "https://www.youtube.com/watch?v=bJS9u0TJj7Y",
-    "percent": 100,
-    "hz": 300
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=hHRiIqfAa0E",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "ImCrisGD",
-    "link": "https://youtu.be/yh2ByBKrTeY?si=b7KDjPXX92QNH39_",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "GJosh2",
-    "link": "https://www.youtube.com/watch?v=E9Uv3FJPF3w",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "Whizkid05",
-    "link": "https://youtu.be/xk9HHsm-9lU?si=rwmwgc-1dYL5qpgD",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "1GMitzy",
-    "link": "https://youtu.be/_bIn1gBa2v0?si=YTnxfMFcdzkm86L6",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "cnnrs",
-    "link": "https://youtu.be/S2RcnzvDp9E?si=Watgwd1_2fe5WlMj",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "stav",
-    "link": "https://youtu.be/JN-tI-DYZ7U?si=krTBR3L8TSbe5aDc",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Ranian",
-    "link": "https://youtu.be/fLaAUHROAI8?si=DLSF9CEUBzNioP-4",
-    "percent": 100,
-    "hz": 288
-},
-{
-    "user": "Chubs Dubs",
-    "link": "https://www.youtube.com/watch?v=7i7o3ITH6AE&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=50",
-    "percent": 100,
-    "hz": 360
+            "hz": 321
 }
     ]
 }
