@@ -9,46 +9,22 @@
     "password": "886988",
     "records": [
         {
-            "user": "Airez",
-            "link": "https://youtu.be/SaEniZZoaPQ",
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=gwjHwjYHLMY",
             "percent": 100,
             "hz": 360
 },
         {
-            "user": "LunarSpark",
-            "link": "https://youtu.be/Ramldq4pvlY",
+            "user": "JannisTE",
+            "link": "https://www.youtube.com/watch?v=0cF9afWuHUY",
             "percent": 100,
             "hz": 360
 },
         {
-            "user": "Zoink",
-            "link": "https://youtu.be/_PoZ5MJ6ahg",
+            "user": "Swiffel",
+            "link": "https://www.youtube.com/watch?v=CHWK-jUlTRk",
             "percent": 100,
             "hz": 240
-},
-        {
-        "user": "fusion425",
-        "link": "https://youtu.be/Lga8AxfVLgI",
-        "percent": 100,
-        "hz": 360
-},
-{
-    "user": "ViperVenom95",
-    "link": "https://youtu.be/ul0-tykVvQ0",
-    "percent": 100,
-    "hz": 360
-},
-        {
-        "user": "zGabriel",
-        "link": "https://youtu.be/JEIjKZVxwGI",
-        "percent": 100,
-        "hz": 330
-},
-{
-    "user": "Whizkid05",
-    "link": "https://youtu.be/hI6Wh5yPCJ8?si=3DDPG9uD9wIqh9Q5",
-    "percent": 100,
-    "hz": 360
 }
 ]
 }
