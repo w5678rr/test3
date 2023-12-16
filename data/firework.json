@@ -1,7 +1,7 @@
 {
     "id": 75206202,
     "name": "Firework",
-    "author": "Tick",
+    "author": "Trick",
     "creators": ["Vernam","lillium","00Zero","Konsi","RealVet","Desumari","Itami","Lekvid","Buragoz","Crouley","Orte","Hantein"],
     "verifier": "Trick",
     "verification": "https://www.youtube.com/watch?v=k_t-DVec-9E",
@@ -9,10 +9,6 @@
     "password": "234000",
     "records": [
     {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=k_t-DVec-9E",
-            "percent": 100,
-            "hz": 360
 }
     ]
 }
