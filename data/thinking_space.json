@@ -4,21 +4,24 @@
     "author": "Atomic",
     "creators": ["HidekiX"],
     "verifier": "Atomic",
-    "verification": "https://www.youtube.com/watch?v=iHf2nanWjvE",
+    "verification": "https://www.youtube.com/watch?v=XuyM4U--85M",
     "percentToQualify": 100,
     "password": "235236",
     "records": [
         {
+            "user": "Ncat",
+            "link": "https://www.youtube.com/watch?v=XuyM4U--85M",
+            "percent": 100,
+            "hz": 360
+
+
             "user": "T'im",
             "link": "https://www.youtube.com/watch?v=Txhl4qJqcmA",
             "percent": 100,
             "hz": 360
 },
         {
-            "user": "Ncat",
-            "link": "https://www.youtube.com/watch?v=XuyM4U--85M",
-            "percent": 100,
-            "hz": 360
+            
 },
         {
             "user": "DeltaPhantom1",
