@@ -4,16 +4,10 @@
     "author": "BoBoBoBoBoBoBo",
     "creators": ["Gooseam","Geemi","rWoomy","EyeOfTheStorm","BoBoBoBoBoBoBo","Eridani","BySelling","El3ctr0"],
     "verifier": "nSwish",
-    "verification": "https://www.youtube.com/watch?v=Aas8_QKLnuc",
+    "verification": "https://www.youtube.com/watch?v=0cF9afWuHUY",
     "percentToQualify": 100,
     "password": "886988",
     "records": [
-        {
-            "user": "JesseGaming",
-            "link": "https://www.youtube.com/watch?v=gwjHwjYHLMY",
-            "percent": 100,
-            "hz": 360
-},
         {
             "user": "JannisTE",
             "link": "https://www.youtube.com/watch?v=0cF9afWuHUY",
@@ -25,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=CHWK-jUlTRk",
             "percent": 100,
             "hz": 240
+},
+        {
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=gwjHwjYHLMY",
+            "percent": 100,
+            "hz": 360
 }
 ]
 }
