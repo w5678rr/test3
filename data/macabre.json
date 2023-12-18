@@ -3,15 +3,8 @@
     "name": "Macabre",
     "author": "ZephiroX",
     "creators": ["ZephiroX","Requiem"],
-    "verifier": "MrSpaghetti",
+    "verifier": "Dagger",
     "verification": "https://www.youtube.com/watch?v=rjnS4_PpQCg",
     "percentToQualify": 100,
-    "records": [
-    {
-            "user": "Dagger",
-            "link": "https://www.youtube.com/watch?v=rjnS4_PpQCg",
-            "percent": 100,
-            "hz": 144
-}
-    ]
+    "records": []
 }
