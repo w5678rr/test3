@@ -3,15 +3,8 @@
     "name": "Awedsy",
     "author": "Sink",
     "creators": ["Sink", "SleyGD"],
-    "verifier": "Zeronium",
+    "verifier": "JesseGaming",
     "verification": "https://www.youtube.com/watch?v=af5aSIhBOY8",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "JesseGaming",
-            "link": "https://www.youtube.com/watch?v=af5aSIhBOY8",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }
