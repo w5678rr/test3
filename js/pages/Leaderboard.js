@@ -51,7 +51,7 @@ export default {
                                 {{pack.name}}
                             </div>
                         </div>
-                        <h2 v-if="entry.first_victor.length > 0">First Victor ({{ entry.first_victor.length}})</h2>
+                        <h2 v-if="entry.verified.length > 0">First Victor ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
