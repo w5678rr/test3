@@ -3,16 +3,9 @@
     "name": "Crimson Planet",
     "author": "TrueOmega",
     "creators": ["TrueOmega","YakobNugget","Dz3ser","Terron","AimTheSame","TrusTa","Metalface221","MrPPs","surreki","nikroplays","Zimnior12","Endlevel"],
-    "verifier": "rWooshi",
+    "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=KLOdOuB767I",
     "percentToQualify": 100,
     "password": "123456",
-    "records": [
-    {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=KLOdOuB767I",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }
