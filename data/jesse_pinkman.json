@@ -3,15 +3,8 @@
     "name": "Jesse Pinkman",
     "author": "Renn241",
     "creators": [],
-    "verifier": "Comlayze",
+    "verifier": "JesseGaming",
     "verification": "https://www.youtube.com/watch?v=tPv23-7dwAQ",
     "percentToQualify": 100,
-    "records": [
-    {
-            "user": "JesseGaming",
-            "link": "https://www.youtube.com/watch?v=tPv23-7dwAQ",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }
