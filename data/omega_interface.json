@@ -3,15 +3,8 @@
     "name": "Omega Interface",
     "author": "Platnuu",
     "creators": ["Platnuu","Zipixbox"],
-    "verifier": "RG",
+    "verifier": "w5678rr",
     "verification": "https://www.youtube.com/watch?v=buOjjjeHxns",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "w5678rr",
-            "link": "https://www.youtube.com/watch?v=buOjjjeHxns",
-            "percent": 100,
-            "hz": 180
-}
-    ]
+    "records": []
 }
