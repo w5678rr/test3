@@ -3,17 +3,11 @@
     "name": "Cognition",
     "author": "Endlevel",
     "creators": ["benji8080","Endlevel"],
-    "verifier": "nSwish",
+    "verifier": "Swiffel",
     "verification": "https://www.youtube.com/watch?v=GyW4EPegqLI",
     "percentToQualify": 100,
     "password": "789123",
     "records": [
-{
-    "user": "Swiffel",
-    "link": "https://www.youtube.com/watch?v=GyW4EPegqLI",
-    "percent": 100,
-    "hz": 288
-},
 {
 "user": "JesseGaming",
     "link": "https://www.youtube.com/watch?v=tLJd2f3Cc3Q",
