@@ -4,8 +4,18 @@
     "author": "Komp",
     "creators": ["nikroplays","viri","Komp"],
     "verifier": "Varium",
-    "verification": "https://www.youtube.com/watch?v=z3grmsqAaas",
+    "verification": "https://www.youtube.com/watch?v=l2dc0LP_HzY",
     "percentToQualify": 100,
     "password": "735560",
-    "records": []
+    "records": [
+
+{
+ "user": "JesseGaming",
+  "link": "https://www.youtube.com/watch?v=l2dc0LP_HzY",
+  "percent": 100,
+  "hz": 360
+
+
+}
+     ]
 }
