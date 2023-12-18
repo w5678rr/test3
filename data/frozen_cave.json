@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=twOwkblKTWc",
             "percent": 100,
             "hz": 360
+    },
+    {
+            "user": "Colizzion",
+            "link": "https://www.youtube.com/watch?v=dCb8wsf2828",
+            "percent": 100,
+            "hz": 240
+
 }
     ]
 }
