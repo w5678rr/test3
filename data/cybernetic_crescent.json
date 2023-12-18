@@ -3,17 +3,11 @@
     "name": "Cybernetic Crescent",
     "author": "ViPriN",
     "creators": ["Codex","Shocksidian","Rustam","FerdeFunky","G4lvatron","nasgubb","ViPriN","Enzore","Samifying","Vlacc","TheDevon","Serponge","Hinds","Terron","Floppy","FirsGD","zalspr"],
-    "verifier": "Technical",
+    "verifier": "ElectroLight7",
     "verification": "https://www.youtube.com/watch?v=3qxhjqLVoBk",
     "percentToQualify": 100,
     "password": "010721",
     "records": [
-    {
-            "user": "ElectroLight7",
-            "link": "https://www.youtube.com/watch?v=3qxhjqLVoBk",
-            "percent": 100,
-            "hz": 288
-},
 {
             "user": "JesseGaming",
             "link": "https://www.youtube.com/watch?v=a7gBTX0GfZU",
