@@ -4,68 +4,27 @@
     "author": "l4tezk",
     "creators": ["Luksa", "WhitePythor", "Manheadrambo", "XinpA", "FlaksY", "l4tezk", "Lumihiutale", "ked", "DreamZoneGD", "Novaach", "Jiikoo", "Ultimxte", "LapoGD", "Custi", "Miikkem"],
     "verifier": "l4tezk",
-    "verification": "https://www.youtube.com/watch?v=QWy1RnPDCWk",
+    "verification": "https://www.youtube.com/watch?v=fmP1mixLilo",
     "percentToQualify": 100,
     "records": [
     {
-            "user": "Magmeta",
-            "link": "https://youtu.be/oPrSoaRLKzk",
+            "user": "JannisTE",
+            "link": "https://www.youtube.com/watch?v=fmP1mixLilo",
             "percent": 100,
-            "hz": 240
+            "hz": 360
 },
         {
-        "user": "lumi",
-        "link": "https://youtu.be/0E1VBl5vbC4",
+        "user": "ElectroLight7",
+        "link": "https://www.youtube.com/watch?v=ygjDDBFeAnc",
         "percent": 100,
-        "hz": 240
+        "hz": 288
 },
 {
-    "user": "ddddr",
-    "link": "https://youtu.be/_F9QihrLAtI",
+    "user": "Dagger",
+    "link": "https://www.youtube.com/watch?v=Oycd4ykKiG0",
     "percent": 100,
-    "hz": 360
-},
-{
-    "user": "DarkTD",
-    "link": "https://www.youtube.com/watch?v=yXUEnZr4LXE",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "DoGGy",
-    "link": "https://www.youtube.com/watch?v=dwqDrSD5rWA",
-    "percent": 100,
-    "hz": 280
-},
-{
-    "user": "Teno",
-    "link": "https://www.youtube.com/watch?v=sL9ZaSJc2ao&t=12s",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "ked",
-    "link": "https://youtu.be/a1wFa9V1a8Q?si=CTVK26hOfRmOVWOv",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Bamvie",
-    "link": "https://youtu.be/F-zmJSPyuC0?si=eLFwwZce6ZHb1IRO",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Bibox",
-    "link": "https://youtu.be/G9aYkBHSwTc",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "StarXV",
-    "link": "https://youtu.be/Ja4ODhFsBKk",
-    "percent": 100,
-    "hz": 240
+    "hz": 144
+
 }
     ]
 }
