@@ -3,16 +3,10 @@
     "name": "Arctic Lights",
     "author": "Metalface221",
     "creators": ["iIiViRuZiIi","Endlevel"],
-    "verifier": "Metalface221",
+    "verifier": "Caveman_Melvin",
     "verification": "https://www.youtube.com/watch?v=JVCYQhWt5iY",
     "percentToQualify": 100,
     "records": [
-    {
-            "user": "Caveman_Melvin",
-            "link": "https://www.youtube.com/watch?v=JVCYQhWt5iY",
-            "percent": 100,
-            "hz": 360
-},
 {
             "user": "JesseGaming",
             "link": "https://www.youtube.com/watch?v=9K5Nl7Xx1uc",
