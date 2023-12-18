@@ -4,7 +4,7 @@
     "author": "Eridani",
     "creators": ["Denni","Eridani"],
     "verifier": "Denni",
-    "verification": "https://www.youtube.com/watch?v=lAgPh86coPQ",
+    "verification": "https://www.youtube.com/watch?v=T9lday3yNvU",
     "percentToQualify": 100,
     "password": "999999",
     "records": [
@@ -13,6 +13,12 @@
     "link": "https://www.youtube.com/watch?v=T9lday3yNvU",
     "percent": 100,
     "hz": 360
+},
+{
+    "user": "eliooenver",
+    "link": "https://www.youtube.com/watch?v=F3yPkbtXzh0",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }
