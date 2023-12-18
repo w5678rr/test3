@@ -3,17 +3,11 @@
     "name": "Thinking Space",
     "author": "Atomic",
     "creators": ["HidekiX"],
-    "verifier": "Atomic",
+    "verifier": "Ncat",
     "verification": "https://www.youtube.com/watch?v=XuyM4U--85M",
     "percentToQualify": 100,
     "password": "235236",
     "records": [
-    {
-            "user": "Ncat",
-            "link": "https://www.youtube.com/watch?v=XuyM4U--85M",
-            "percent": 100,
-            "hz": 360
-},
             {
             "user": "T'im",
             "link": "https://www.youtube.com/watch?v=Txhl4qJqcmA",
