@@ -3,16 +3,9 @@
     "name": "Coral Cave",
     "author": "awesomeme360",
     "creators": ["awesomeme360", "Gnamolor"],
-    "verifier": "Gnamolor",
+    "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=3yyhkYF3tzg",
     "showcase": "https://www.youtube.com/watch?v=mGtu4ahQLVE",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=3yyhkYF3tzg",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }
