@@ -3,17 +3,11 @@
     "name": "The Golden",
     "author": "BoBoBoBoBoBoBo",
     "creators": ["Gooseam","Geemi","rWoomy","EyeOfTheStorm","BoBoBoBoBoBoBo","Eridani","BySelling","El3ctr0"],
-    "verifier": "nSwish",
+    "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=0cF9afWuHUY",
     "percentToQualify": 100,
     "password": "886988",
     "records": [
-        {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=0cF9afWuHUY",
-            "percent": 100,
-            "hz": 360
-},
         {
             "user": "Swiffel",
             "link": "https://www.youtube.com/watch?v=CHWK-jUlTRk",
