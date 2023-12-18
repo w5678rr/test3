@@ -3,15 +3,8 @@
     "name": "The Rupture",
     "author": "Ka1ns",
     "creators": [],
-    "verifier": "Dolphy",
+    "verifier": "BreadGuyGD",
     "verification": "https://www.youtube.com/watch?v=mEjYtimIhlc",
     "percentToQualify": 100,
-    "records": [
-{
-    "user": "BreadGuyGD",
-    "link": "https://www.youtube.com/watch?v=mEjYtimIhlc",
-    "percent": 100,
-    "hz": 240
-}
-    ]
+    "records": []
 }
