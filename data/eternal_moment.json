@@ -3,17 +3,11 @@
     "name": "Eternal Moment",
     "author": "Rainstorm",
     "creators": ["Rainstorm","iEstia","TheCdPre","ZelLink"],
-    "verifier": "nSwish",
+    "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=ap64DveeQGE",
     "percentToQualify": 100,
     "password": "086400",
     "records": [
-{
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=ap64DveeQGE",
-            "percent": 100,
-            "hz": 240
-},
 {
             "user": "T'im",
             "link": "https://www.youtube.com/watch?v=o0bqraHNh2w",
