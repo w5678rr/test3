@@ -3,15 +3,8 @@
     "name": "Calculator Core",
     "author": "Walroose",
     "creators": ["CairoX","CrankytheHuman","Sheep","HelpegasuS","Cytokinesis","Zero","Sedgehog","Isane","Chuckgamer1","Realvet","Spectex","Yoonsr","Xaren","Walroose","tolstyh","Brittank88","Zest","Voltrix","Zylenox","StarkytheSalad","Cryo","Acnologia"],
-    "verifier": "swiborg",
+    "verifier": "T'im",
     "verification": "https://www.youtube.com/watch?v=wyaN_rZekUs",
     "percentToQualify": 100,
-    "records": [
-    {
-            "user": "T'im",
-            "link": "https://www.youtube.com/watch?v=wyaN_rZekUs",
-            "percent": 100,
-            "hz": 288
-}
-    ]
+    "records": []
 }
