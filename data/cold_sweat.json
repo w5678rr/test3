@@ -3,15 +3,8 @@
     "name": "Cold Sweat",
     "author": "para",
     "creators": ["para","Sminx","Wulzy"],
-    "verifier": "Kapinapi",
+    "verifier": "Caveman_Melvin",
     "verification": "https://www.youtube.com/watch?v=id6e83QE0t8",
     "percentToQualify": 100,
-    "records": [
-{
-    "user": "Caveman_Melvin",
-    "link": "https://www.youtube.com/watch?v=id6e83QE0t8",
-    "percent": 100,
-    "hz": 300
-}
-    ]
+    "records": []
 }
