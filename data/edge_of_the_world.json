@@ -3,16 +3,10 @@
     "name": "Edge of the World",
     "author": "l4tezk",
     "creators": ["Luksa", "WhitePythor", "Manheadrambo", "XinpA", "FlaksY", "l4tezk", "Lumihiutale", "ked", "DreamZoneGD", "Novaach", "Jiikoo", "Ultimxte", "LapoGD", "Custi", "Miikkem"],
-    "verifier": "l4tezk",
+    "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=fmP1mixLilo",
     "percentToQualify": 100,
     "records": [
-    {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=fmP1mixLilo",
-            "percent": 100,
-            "hz": 360
-},
         {
         "user": "ElectroLight7",
         "link": "https://www.youtube.com/watch?v=ygjDDBFeAnc",
