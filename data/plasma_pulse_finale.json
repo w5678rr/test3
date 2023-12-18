@@ -3,17 +3,11 @@
     "name": "Plasma Pulse Finale",
     "author": "xSmokes",
     "creators": ["Giron","xSmokes"],
-    "verifier": "xSmokes",
+    "verifier": "Dagger",
     "verification": "https://www.youtube.com/watch?v=A_A82PW7QRg",
     "percentToQualify": 100,
     "password": "356987",
     "records": [
-        {
-            "user": "Dagger",
-            "link": "https://www.youtube.com/watch?v=A_A82PW7QRg",
-            "percent": 100,
-            "hz": 144
-},
         {
             "user": "ElectroLight7",
             "link": "https://www.youtube.com/watch?v=fnkzxO3JibY",
