@@ -3,45 +3,10 @@
     "name": "Fog",
     "author": "notesxd",
     "creators": ["notesxd", "pixll1", "slayerkirb"],
-    "verifier": "slayerkirb",
-    "verification": "https://youtu.be/n3dIaFHT-fI",
+    "verifier": "JannisTE",
+    "verification": "https://www.youtube.com/watch?v=6kn5LEZFrWQ",
     "percentToQualify": 100,
-    "records": [
-{
-            "user": "nei",
-            "link": "https://youtu.be/QBCMiynxL2c",
-            "percent": 100,
-            "hz": 321
-    },
-    {
-        "user": "Teno",
-        "link": "https://youtu.be/eDgfpD_aaUo",
-        "percent": 100,
-        "hz": 360
-    },
-    {
-        "user": "iiLogan",
-        "link": "https://youtu.be/dctmlKtNzsg",
-        "percent": 100,
-        "hz": 321
-    },
-    {
-        "user": "Zoink",
-        "link": "https://youtu.be/ZCpn0RBiY7w?si=AVicdHdDrhdtKEsP",
-        "percent": 100,
-        "hz": 240
-},
-{
-    "user": "Vink",
-    "link": "https://youtu.be/C0ENmsMBr4Q?si=j9hZqPINt3vKTzIx",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "catmatt",
-    "link": "https://youtu.be/PvHkS2rELNk",
-    "percent": 100,
-    "hz": 240
+    "records": []
 }
-    ]
-}
+            
+  
