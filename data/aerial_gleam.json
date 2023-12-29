@@ -3,15 +3,12 @@
     "name": "Aerial Gleam",
     "author": "Endlevel",
     "creators": ["Endlevel","Culuc","Antares","Deadlox"],
-    "verifier": "Doggie",
-    "verification": "https://www.youtube.com/watch?v=eyZjKtrGVYw",
+    "verifier": "JesseGaming",
+    "verification": "https://www.youtube.com/watch?v=TUSg6jprOE4",
     "percentToQualify": 100,
     "records": [
     {
-            "user": "Zoink",
-            "link": "https://youtu.be/x4L4Iaet7oI",
-            "percent": 100,
-            "hz": 360
+           
 }
     ]
 }
