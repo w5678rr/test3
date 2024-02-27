@@ -8,11 +8,12 @@
     "percentToQualify": 100,
     "records": [
 
-{
-"user": "JaydenvdH",
-"link": "https://www.youtube.com/watch?v=Dg0ukMTBfyY"
-"percent": 100,
-"hz": 240
-},
-  ]
+ {
+            "user": "JaydenvdH",
+            "link": "https://www.youtube.com/watch?v=Dg0ukMTBfyY",
+            "percent": 100,
+            "hz": 240
 }
+    ]
+}
+
