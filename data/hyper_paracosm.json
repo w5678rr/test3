@@ -7,5 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=Aw2dWoQ9WmM",
     "percentToQualify": 100,
     "password": "789123",
-    "records": []
+    "records": [
+
+  {
+      "user": "Caveman_Melvin",
+      "link": "https://www.youtube.com/watch?v=KkMEXj1PQ10",
+      "percent": 100,
+      "hz": 360
+}
+  ]
 }
