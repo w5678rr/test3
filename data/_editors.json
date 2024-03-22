@@ -11,7 +11,6 @@
   ]
 
     },
-        {
             "role": "dev",
             "members": [
                 {
@@ -19,12 +18,11 @@
                     "link": "https://youtube.com/@Padahk?si=_M425h2h0f1AVgmn"
                 }
 
-              {
-
-              }
-     ]
-        }
-    ]
+                {
+            }
+         ]
+      }
+ ]
 
         
        
