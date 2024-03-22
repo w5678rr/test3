@@ -24,13 +24,24 @@
             "link": "https://www.youtube.com/watch?v=4OtmPKJFRxo",
             "percent": 100,
             "hz": 360
-        },{
+        },
+        {
             "user": "w5678rr",
             "link": "https://www.youtube.com/watch?v=czouYE6vzGM",
             "percent": 100,
             "hz": 360
-
-
-}
+        },
+            {
+            "user": "XLGamer10",
+            "link": "https://www.youtube.com/watch?v=_PpqzzwYwWo",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "Jitt3rGD",
+            "link": "https://www.youtube.com/watch?v=zFTRCuZefp0",
+            "percent": 100,
+            "hz": 360            
+        }
     ]
 }
