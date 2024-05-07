@@ -74,12 +74,12 @@
     "macabre",
     "edge_of_the_world",
     "sink",
-    "molten_core",
     "loochiverse",
     "lumina",
     "sonic_wave_rebirth",
     "sonic_wave",
     "infinite_iniquity",
+    "molten_gear",
     "shmarley_ville",
     "goner",
     "necromancer",
@@ -88,5 +88,8 @@
     "edge_of_the_blade",
     "cersia_difficult",
     "xo",
-    "generic_wave"
+    "generic_wave",
+    "titan_complex",
+    "molten_core"
+
 ]
