@@ -6,7 +6,7 @@
  */
 const baseFactor = 0.0005832492374192035997815;
 
-const scale = 1;
+const scale = 2;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
