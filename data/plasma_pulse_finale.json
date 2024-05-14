@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=zFVfhwESPUc",
             "percent": 100,
             "hz": 240
+        },
+                {
+                        "user": "JannisTE",
+            "link": "https://youtu.be/bdGe1kJVS5M?si=jjtRskGGm8LkFAim",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
