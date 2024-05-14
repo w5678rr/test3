@@ -3,22 +3,9 @@
     "name": "Twilight",
     "author": "zYuko",
     "creators": ["zYuko"],
-    "verifier": "nei",
-    "verification": "https://youtu.be/5bZ3RQP7fjs",
+    "verifier": "JannisTE",
+    "verification": "https://youtu.be/viN6IJCw_Vk?si=y3_D_legHRvJtVAV",
     "percentToQualify": 100,
     "password": "",
-    "records": [
-        {
-            "user": "Capamari",
-            "link": "https://youtu.be/tEpIsK-2_xw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Bamvie",
-            "link": "https://youtu.be/3pg7xMr7FjU?si=mnuJ-iAZLoJDrXPN",
-            "percent": 100,
-            "hz": 360
-    }
-    ]
+    "records": []
 }
