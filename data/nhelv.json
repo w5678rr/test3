@@ -12,6 +12,18 @@
             "link": "https://www.youtube.com/watch?v=ucK5ZCkWsmU",
             "percent": 100,
             "hz": 144
-}
+},
+                {
+            "user": "JannisTE",
+            "link": "https://www.youtube.com/watch?v=YcXGSSLqp5s",
+            "percent": 100,
+            "hz": 360
+},
+                {
+            "user": "Vankley",
+            "link": "https://www.youtube.com/watch?v=pu-X0uOCS4w",
+            "percent": 100,
+            "hz": 240
+},
     ]
 }
