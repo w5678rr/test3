@@ -1,26 +1,21 @@
-/
- 
-
-    Basefactor for parameters a and b
-        basefactor = 1/(18000000/(100+minpoints)^2-50)
-        current basefactor for minpoints = 1
-    */
-
+/**
+ * Basefactor for parameters a and b
+ * basefactor = 1/(18000000/(100+minpoints)^2-50)
+ * 
+ * current basefactor for minpoints = 1
+ */
 const baseFactor = 0.0005832492374192035997815;
 
 const scale = 1;
 
-/
- 
-
-    Calculate the score awarded when having a certain percentage on a list level
-        @param {Number} rank Position on the list
-        @param {Number} percent Percentage of completion
-        @param {Number} minPercent Minimum percentage required
-        @Param {Number} levelCount Current number of levels
-        @returns {Number}
-    */
-
+/**
+ * Calculate the score awarded when having a certain percentage on a list level
+ * @param {Number} rank Position on the list
+ * @param {Number} percent Percentage of completion
+ * @param {Number} minPercent Minimum percentage required
+ * @Param {Number} levelCount Current number of levels
+ * @returns {Number}
+ */
 export function score(rank, percent, minPercent, levelCount) {
     const b = (levelCount - 1) * baseFactor
     const a = 600 * Math.sqrt(b)
@@ -66,4 +61,3 @@ export function round(num) {
         );
     }
 }
-﻿
