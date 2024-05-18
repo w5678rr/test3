@@ -29,12 +29,12 @@ export function score(rank, percent, minPercent, levelCount) {
         return round(score - score / 3);
     }
 
-
+    return round(score);
 }
 
 export function calculateScores(levelCount) {
     const b = (levelCount - 1) * baseFactor;
-    const a = 600 * Math.sqrt(b);
+    const a = 6000 * Math.sqrt(b);
 
     let scores = [];
     for (let rank = 0; rank < levelCount; ++rank) {
