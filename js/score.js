@@ -25,7 +25,8 @@ export function score(rank, percent, minPercent, levelCount) {
 
     score = Math.max(0, score);
 
-
+    if (percent != 100) {
+        return round(score / 3);
     }
 
     return round(score);
