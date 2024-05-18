@@ -39,7 +39,7 @@ export function calculateScores(levelCount) {
     let scores = [];
     for (let rank = 0; rank < levelCount; ++rank) {
         const score = (a / Math.sqrt(rank / 50 + b) - 100);
-        scores.push(score);
+        scores.push(round(score));
     }
 
     return scores;
