@@ -23,10 +23,9 @@ export function score(rank, percent, minPercent, levelCount) {
     let score = (a / Math.sqrt((rank - 1) / 50 + b) - 100) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
-    score = Math.max(3, score);
+    score = Math.max(0, score);
 
-    if (percent != 100) {
-        return round(score - score / 3);
+
     }
 
     return round(score);
