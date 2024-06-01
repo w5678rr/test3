@@ -27,6 +27,7 @@
     "rust",
     "shardscapes",
     "ragnarok",
+    "torn",
     "silent_club",
     "omega_interface",
     "congregation",
@@ -96,6 +97,5 @@
     "molten_core",
     "kuzureta",
     "erebus_rustam",
-    "sunset_sandstorm",
-    "altered_ascent"
+    "sunset_sandstorm"
 ]
