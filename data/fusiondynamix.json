@@ -3,15 +3,8 @@
     "name": "FusionDynamix",
     "author": "TwisterDude161",
     "creators": ["TwisterDude161", "NukeIIX"],
-    "verifier": "Fenix1022",
-    "verification": "https://youtu.be/-0iFMEB6Tjg",
+    "verifier": "matthijsgd",
+    "verification": "https://www.youtube.com/watch?v=o1P5sautPAY",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Whizkid05",
-            "link": "https://youtu.be/B9-jqr0tToc?si=QmZmhiVyeEu9MNU_",
-            "percent": 100,
-            "hz": 360
-    }
-    ]
+    "records": []
 }
