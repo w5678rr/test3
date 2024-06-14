@@ -4,9 +4,9 @@
  * 
  * current basefactor for minpoints = 1
  */
-const baseFactor = 0.0005832492374192035997815;
+const baseFactor = 1.0005832492374192035997815;
 
-const scale = 2;
+const scale = 1;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
