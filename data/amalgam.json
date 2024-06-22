@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/nqe19sTT6ZM?si=J3xe_8two2mkQUjr",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+                {
+            "user": "JesseGaming",
+            "link": "https://youtu.be/chko8D-h6r8?si=ZWdvsMd9f4oq62oV",
+            "percent": 100,
+            "hz": 360
+    }
+    ]
 }
