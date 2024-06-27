@@ -16,10 +16,10 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: ##1e4780;
+    --color-primary: #1f213c;
     --color-primary-disabled: #1f213c;
     --color-on-primary: #1f213c;
-    --color-error: #de0000;
+    --color-error: #1f213c;
     --color-on-error: #1f213c;
 }
 
