@@ -6,5 +6,11 @@
     "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=NbqEq7duNl8",
     "percentToQualify": 100,
-    "records": []
+    "records": [    {
+            "user": "BreadGuyGD",
+            "link": "https://youtu.be/sB-0HKb2-wg?si=r3Lfuc3lWSa4_13U",
+            "percent": 100,
+            "hz": 240
+    
+}]
 }
