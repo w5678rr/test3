@@ -7,11 +7,17 @@
     "verification": "https://youtu.be/jU_i7Ggk6IQ?si=_4tLVu-2zhwpYi2R",
     "percentToQualify": 100,
     "records": [
-                {
+    {
             "user": "cln",
             "link": "https://youtu.be/waIh-ojierg?si=iyZciGWm6i5hZJ6H",
             "percent": 100,
             "hz": 240
-        }
+    },
+  {
+            "user": "DeltaPhantom",
+            "link": "https://www.youtube.com/watch?v=m84XopDEEGc",
+            "percent": 100,
+            "hz": 240
+ }
     ]
 }
