@@ -6,5 +6,12 @@
     "verifier": "w5678rr",
     "verification": "https://www.youtube.com/watch?v=buOjjjeHxns",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+             {
+            "user": "Caveman_Melvin",
+            "link": "https://www.youtube.com/watch?v=tRbm5wFFRrI",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
