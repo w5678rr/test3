@@ -21,21 +21,8 @@
 		"aubreygoose",
 		"j2ko"
 	],
-	"verifier": "TGM05",
-	"verification": "https://www.youtube.com/watch?v=OKEHsJPaeQY",
+	"verifier": "GDaan",
+	"verification": "https://www.youtube.com/watch?v=PeIetFe9wOc",
 	"percentToQualify": 100,
-	"records": [
-		{
-			"user": "Vikings",
-			"link": "https://www.youtube.com/watch?v=zta6EVxPQ2E&t=16s",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Silverdynamix",
-			"link": "https://youtu.be/HbcapxmdPKs?si=b25Oy9mnes7-JrQw",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records": []
 }
