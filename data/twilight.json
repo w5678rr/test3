@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/viN6IJCw_Vk?si=y3_D_legHRvJtVAV",
     "percentToQualify": 100,
     "password": "",
-    "records": []
+    "records": [
+                {
+            "user": "ColinT",
+            "link": "https://youtu.be/GqRgHwjvuxs?si=sb_0ae4FoEblFVur",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
