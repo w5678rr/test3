@@ -3,14 +3,8 @@
     "name": "SAND SAILOR",
     "author": "Custi",
     "creators": ["Custi", "Ked"],
-    "verifier": "nei",
-    "verification": "https://www.youtube.com/watch?v=QPmzn9X77Uo",
+    "verifier": "Cejelost",
+    "verification": "https://youtu.be/xnRa6mb-yRo?si=YfyoxF59TyX6cAiS",
     "percentToQualify": 100,
-    "records": [{
-        "user": "MwHey",
-        "link": "https://youtu.be/AvFl_RNpvso",
-        "percent": 100,
-        "hz": 360
-}
-]
+    "records": []
 }
