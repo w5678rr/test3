@@ -6,5 +6,12 @@
     "verifier": "w5678rr",
     "verification": "https://www.youtube.com/watch?v=ML1smKLZzB0",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+            {
+            "user": "Jitt3rGD",
+            "link": "https://youtu.be/7UMMKuIBN3k?si=2tLiVxlNly0dMhVm",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
