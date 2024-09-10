@@ -6,5 +6,12 @@
     "verifier": "Spitskool",
     "verification": "https://www.youtube.com/watch?v=mBnpizBX540",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+            {
+            "user": "AstralNova",
+            "link": "https://youtu.be/KVFN53Pc9i8?si=iWWmj5vVd_Hb7dOn",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
