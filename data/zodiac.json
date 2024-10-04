@@ -42,6 +42,12 @@
             "link": "https://www.youtube.com/watch?v=Tc5cUVdl3Zc",
             "percent": 100,
             "hz": 240 
+        },
+                {
+                       "user": "zcylix",
+            "link": "https://youtu.be/IZkUruIiFuI?si=nrQni4Kq4OhuKnQ7",
+            "percent": 100,
+            "hz": 240 
         }
     ]
 }
