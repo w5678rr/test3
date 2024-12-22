@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=6ntWc33JTcQ",
             "percent": 100,
             "hz": 500
+        },
+                {
+            "user": "ZenithTheMonkey",
+            "link": "https://youtu.be/JZcRMsrMC6o?si=sDRHYNAQfg3SBlBw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
