@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=mZEG6RjEU6g",
     "percentToQualify": 100,
     "password": "446799",
-    "records": []
+    "records": [
+                {
+            "user": "JannisTE",
+            "link": "https://youtu.be/X5ymNjG97mk?si=H6F1FsaYWyGdgAgo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
