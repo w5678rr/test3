@@ -3,63 +3,21 @@
     "name": "Friday Vortex",
     "author": "Cersia",
     "creators": ["declan", "GrenadeofTacos", "Cersia"],
-    "verifier": "Cersia",
-    "verification": "https://www.youtube.com/watch?v=AvMvICz-gJo",
+    "verifier": "JesseGaming",
+    "verification": "https://youtu.be/YbqhbJqu4CY?si=O0RMDtIlohm-sFxA",
     "percentToQualify": 100,
     "records": [
-    {
-            "user": "Magmeta",
-            "link": "https://youtu.be/rWmgFLDRyZs",
-            "percent": 100,
-            "hz": 240
+            {
+        "user": "Caveman_Melvin",
+        "link": "https://youtu.be/AHuG1dorI3Y?si=jmfIcwZ424oqoM2k",
+        "percent": 100,
+        "hz": 240
 },
-        {
-            "user": "ddddr",
-            "link": "https://youtu.be/dpo_iBWX9lE",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Ranly",
-            "link": "https://youtu.be/ObAOHBxF_8g",
-            "percent": 100,
-            "hz": 240
-},
-        {
-            "user": "Lelzi",
-            "link": "https://youtu.be/mHh3P8Q3AhY",
-            "percent": 100,
-            "hz": 360
-},
-        {
-            "user": "Detrezo",
-            "link": "https://www.youtube.com/watch?v=l3PKZ7X3k74&t=1s&ab_channel=Detrezo",
-            "percent": 100,
-            "hz": 360
-},
-{
-    "user": "Zesorqe",
-    "link": "https://www.youtube.com/watch?v=xq-i8LjSIKA",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "qKitti",
-    "link": "https://www.youtube.com/watch?v=aALd7r-cAXs",
-    "percent": 100,
-    "hz": 240
-},
-{
-    "user": "chickenborgor",
-    "link": "https://youtu.be/RTrY_4GBLwc",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "Jakalope",
-    "link": "https://www.youtube.com/watch?v=M41vxPxVx_k",
-    "percent": 100,
-    "hz": 360
+            {
+        "user": "w5678rr",
+        "link": "https://youtu.be/nC7jEmpZUME?si=kvnAepyeBlO4jBkD",
+        "percent": 100,
+        "hz": 240
 }
     ]
 }
