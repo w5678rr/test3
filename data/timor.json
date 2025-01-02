@@ -3,8 +3,21 @@
     "name": "Timor",
     "author": "Colorbolt",
     "creators": ["Colorbolt", "Maxie25"],
-    "verifier": "AstralNova",
-    "verification": "https://youtu.be/KDWV_eJyc8g?si=-wFz8XU8p6gH4kWk",
+    "verifier": "JannisTE",
+    "verification": "https://youtu.be/BRCddPp0KTI?si=1UyvvXsW2rL9_Wmu",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+            {
+            "user": "DeltaPhantom1",
+            "link": "https://youtu.be/nVGwHIi55kI?si=wTfiBa6KOxQyQ7-E",
+            "percent": 100,
+            "hz": 360
+},
+            {
+            "user": "AstralNova",
+            "link": "https://youtu.be/KDWV_eJyc8g?si=-wFz8XU8p6gH4kWk",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
