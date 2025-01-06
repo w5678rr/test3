@@ -3,15 +3,8 @@
     "name": "Lucid Chaos",
     "author": "CairoX",
     "creators": ["CairoX", "Deadlox", "HelpegasuS", "Dorami", "Moosh", "iNubble", "Jaowan", "SleyGD", "TriplasH", "creoa", "Endlevel"],
-    "verifier": "DoGGy",
-    "verification": "https://www.youtube.com/watch?v=UOs7bVXKBaQ",
+    "verifier": "BreadGuyGD",
+    "verification": "https://www.youtube.com/watch?v=gr-pVpmGGCo",
     "percentToQualify": 100,
-    "records": [
-    {
-            "user": "BreadGuyGD",
-            "link": "https://www.youtube.com/watch?v=gr-pVpmGGCo",
-            "percent": 100,
-            "hz": 240
-}           
-        ]
+    "records": []
 }
