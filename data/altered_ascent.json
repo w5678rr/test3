@@ -3,9 +3,17 @@
     "name": "Altered Ascent",
     "author": "Prism",
     "creators": ["Genericqueso", "xNocturne", "Shocksidian", "Juhou", "Ryder", "Gs Craig", "Drak", "Eclipsed", "Nico99", "Pennutoh", "Eggnog", "TH04", "Straw", "Sminx", "Bianox", "Voltex", "Logic", "Prism", "Lieb"],
-    "verifier": "JesseGaming",
-    "verification": "https://www.youtube.com/watch?v=HOV_SmqY5q8",
+    "verifier": "Arveal",
+    "verification": "https://www.youtube.com/watch?v=KVIuLK71MNM",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records": []
+    "records": [
+
+{
+            "user": "JesseGaming",
+            "link": "https://www.youtube.com/watch?v=HOV_SmqY5q8",
+            "percent": 100,
+            "hz": 360
+}
+    ]
 }
