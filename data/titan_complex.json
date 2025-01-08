@@ -8,6 +8,14 @@
     "percentToQualify": 100,
     "password": "666666",
     "records": [
+      
+        {
+            "user": "Arveal",
+            "link": "https://www.youtube.com/watch?v=ttKzxYD6SX8",
+            "percent": 100,
+            "hz": 360
+        },
+
         {
             "user": "JesseGaming",
             "link": "https://www.youtube.com/watch?v=GvO_TFNf20c",
