@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/edfpC10bOZU?si=fetjdZkl-g8GurAO",
     "percentToQualify": 100,
     "password": "111111",
-    "records": []
+    "records": [
+                {
+            "user": "Dycibel",
+            "link": "https://youtu.be/-OXJ-4MQEbo?si=EKf7vIQOh78NTBSO",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
