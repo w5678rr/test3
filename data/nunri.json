@@ -3,28 +3,9 @@
     "name": "Nunri",
     "author": "Szilu",
     "creators": [],
-    "verifier": "Wolvez",
-    "verification": "https://www.youtube.com/watch?v=b8NfSjCT-E8",
+    "verifier": "JannisTE",
+    "verification": "https://youtu.be/edfpC10bOZU?si=fetjdZkl-g8GurAO",
     "percentToQualify": 100,
     "password": "111111",
-    "records": [
-{
-            "user": "MasterOfDonkeys",
-            "link": "https://youtu.be/l1Mc9Y-r6Jo",
-            "percent": 100,
-            "hz": 280
-},
-{
-    "user": "ddddr",
-    "link": "https://youtu.be/R4a4wBU8oxg",
-    "percent": 100,
-    "hz": 360
-},
-{
-    "user": "IcaroX",
-    "link": "https://youtu.be/93L9K_YFJ-o?si=_JADFcaHKU2Pacdd",
-    "percent": 100,
-    "hz": 360
-}
-    ]
+    "records": []
 }
