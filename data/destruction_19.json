@@ -6,5 +6,12 @@
 	"verifier": "Dycibel",
 	"verification": "https://youtu.be/-0Iu3yyae5g?si=fN2E0xmjDm5aHWb7",
 	"percentToQualify": 100,
-	"records": []
+	"records": [
+        {
+            "user": "eliooenver",
+            "link": "https://youtu.be/c7a5CA1or0c?si=fOVYN7TNrrwrnxRY",
+            "percent": 100,
+            "hz": 240
+}
+    ]
 }
