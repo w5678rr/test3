@@ -12,6 +12,12 @@
                 "link": "https://www.youtube.com/watch?v=BwdPJW-32NA",
                 "percent": 100,
                 "hz": 360
+        },
+        {
+                "user": "Dagger",
+                "link": "https://youtu.be/SV0jINRp9OU?si=lcFj17Y-C_fM6N5F",
+                "percent": 100,
+                "hz": 240
         }
     ]
 }
