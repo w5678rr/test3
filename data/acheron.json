@@ -3,15 +3,8 @@
     "name": "Acheron",
     "author": "ryamu",
     "creators": ["GrenadeOfTacos","ryamu","Riot","icedcave","silver","Deadlox","Komp","AZuLer4","ewop","Metalface221","Cersia","LimeTime313","Goob","Endlevel"],
-    "verifier": "Zoink",
-    "verification": "https://www.youtube.com/watch?v=sBKR6aUorzA",
+    "verifier": "JesseGaming",
+    "verification": "https://youtu.be/tmFzWL7rOZw?si=W_hMklBCH3Ug-qcM",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Mizukii",
-            "link": "https://youtu.be/obDiKsr24vo?si=yBQDYCYzIlI2Kcyq",
-            "percent": 100,
-            "hz": 322
-}
-    ]
+    "records": []
 }
