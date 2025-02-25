@@ -67,13 +67,22 @@
             "user": "CoolCodin",
             "link": "https://www.youtube.com/watch?v=ZdjH-gzVhFM",
             "percent": 100,
-            "hz": 360                  
-},
-                {
+            "hz": 360 
+}, {
+  
             "user": "Joey_Visser23",
             "link": "https://youtu.be/9cBt-aBQWys?si=QY-zdayH8XDMvAxu",
             "percent": 100,
             "hz": 240                 
-}
+        },
+{
+
+            "user": "ToshDeluxe",
+            "link": "https://www.youtube.com/watch?v=q7wJLh-N_lA",
+            "percent": 100,
+            "hz": 360 
+        },
+                 
+        
     ]
 }
