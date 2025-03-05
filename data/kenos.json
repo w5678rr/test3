@@ -3,15 +3,8 @@
     "name": "Kenos",
     "author": "npesta",
     "creators": ["Spectex","Pennutoh","Bianox","Lqah","Krampux","Terron","Splash","Salaxium","nikroplays","Zimnior12","Eclipsed","SlimJim","ChiefFlurry","Endlevel","Noobas"],
-    "verifier": "JesseGaming",
-    "verification": "https://www.youtube.com/watch?v=_TkbUdSKgXo",
+    "verifier": "JannisTE",
+    "verification": "https://www.youtube.com/watch?v=rcltIBb3u3w",
     "percentToQualify": 100,
-    "records": [
-            {
-            "user": "JannisTE",
-            "link": "https://www.youtube.com/watch?v=rcltIBb3u3w",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }

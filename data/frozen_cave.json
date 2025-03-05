@@ -3,18 +3,12 @@
     "name": "Frozen Cave",
     "author": "theParadoxTeam",
     "creators": ["TyakyoFyai","Aqualime","Vornickon","AlexOris","FlashWings576","DimaCrut","Sleynt","Quicklen"],
-    "verifier": "JesseGaming",
-    "verification": "https://www.youtube.com/watch?v=twOwkblKTWc",
+    "verifier": "Colizzion",
+    "verification": "https://www.youtube.com/watch?v=dCb8wsf2828",
     "percentToQualify": 100,
     "password": "060521",
     "records": [
-    {
-            "user": "Colizzion",
-            "link": "https://www.youtube.com/watch?v=dCb8wsf2828",
-            "percent": 100,
-            "hz": 240
-    },
-
+ 
 {
             "user": "BreadGuyGD",
             "link": "https://www.youtube.com/watch?v=4xXZSHc3p1M",

@@ -3,15 +3,8 @@
     "name": "Sky Shredder",
     "author": "Dorvict",
     "creators": [],
-    "verifier": "JesseGaming",
+    "verifier": "eliooenver",
     "verification": "https://www.youtube.com/watch?v=wsdT3pEjaXE",
     "percentToQualify": 100,
-    "records": [
-{ 
-            "user": "eliooenver",
-            "link": "https://www.youtube.com/watch?v=QAm3u5u7Hic",
-            "percent": 100,
-            "hz": 240
-}
-  ]
+    "records": []
 }

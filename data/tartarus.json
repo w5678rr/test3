@@ -3,24 +3,14 @@
     "name": "Tartarus",
     "author": "Dolphy",
     "creators": ["Rek3dge","Salaxium","Komp","AZuLer4","Hinds","Riot","Aquatias","Cyclic","Vermillion","Aurorus","Endlevel"],
-    "verifier": "JesseGaming",
-    "verification": "https://www.youtube.com/watch?v=LtR5tntwADQ",
+    "verifier": "JannisTE",
+    "verification": "https://www.youtube.com/watch?v=Y2eNx3sHno0",
     "percentToQualify": 100,
     "password": "061742",
     "records": [
 
 
-
-<!--JesseGaming -->
-
-
 {
-     "user": "JannisTE",
-     "link": "https://www.youtube.com/watch?v=Y2eNx3sHno0",
-     "percent": 100,
-     "hz": 360
-},
-                {
      "user": "DeltaPhantom1",
      "link": "https://youtu.be/8Xo62efliuw?si=W2JtKa-Jg6BmnqVZ",
      "percent": 100,

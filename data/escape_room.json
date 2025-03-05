@@ -3,15 +3,8 @@
     "name": "Escape Room",
     "author": "SleyGD",
     "creators": [],
-    "verifier": "JesseGaming",
-    "verification": "https://youtu.be/myuROCnTA4U?si=O0CzkjXwIn7HsbIU",
+    "verifier": "Melted",
+    "verification": "https://youtu.be/i0eleX2hQKg?si=fCx_RRgLl9piA_i6",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Melted",
-            "link": "https://youtu.be/i0eleX2hQKg?si=fCx_RRgLl9piA_i6",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+    "records": []
 }
