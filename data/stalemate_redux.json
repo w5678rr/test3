@@ -21,15 +21,14 @@
             "hz": 240
 },
         {
-            "user": "AstralNova",
-            "link": "https://www.youtube.com/watch?v=sHxl3peF4yY",
-            "percent": 100,
-            "hz": 240
-
-},
-        {
             "user": "BreadGuyGD",
             "link": "https://www.youtube.com/watch?v=ZARMh4YJA5w",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "AstralNova",
+            "link": "https://www.youtube.com/watch?v=sHxl3peF4yY",
             "percent": 100,
             "hz": 240
 },
