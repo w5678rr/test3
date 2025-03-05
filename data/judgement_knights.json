@@ -8,12 +8,5 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "song": 1068034,
-    "records": [
-        {
-            "user": "JesseGaming",
-            "link": "https://youtu.be/JCQ9_4tVg80?si=KSLyAyyNhec6mWga",
-            "percent": 100,
-            "hz": 240
-    }
-    ]
+    "records": []
 }

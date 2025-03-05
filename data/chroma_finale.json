@@ -6,12 +6,5 @@
     "verifier": "JannisTE",
     "verification": "https://www.youtube.com/watch?v=Aurb-8i3FGM",
     "percentToQualify": 100,
-    "records": [
-                {
-            "user": "JesseGaming",
-            "link": "https://youtu.be/w6Jq5UIJFRo?si=hzuoLV3lBTb8OjQ1",
-            "percent": 100,
-            "hz": 360
-}
-    ]
+    "records": []
 }
